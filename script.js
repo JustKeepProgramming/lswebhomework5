@@ -9,7 +9,7 @@
 //5. Store your favorite food as a variable called "myFavoriteFood"
     var myFavoriteFood = "quesadillas";
 //6. Publish your favorite food to `index.html` using `document.write()`
-
+    document.write(myFavoriteFood);
 //7. Print the remainder of 14 / 3 to the console
 
 //8. Print the remainder of 829 / 13 to the console
