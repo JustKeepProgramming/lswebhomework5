@@ -7,7 +7,7 @@
 //4. Print to the console how old you will be in 5 years
     console.log(myAge + 5);
 //5. Store your favorite food as a variable called "myFavoriteFood"
-
+    var myFavoriteFood = "quesadillas";
 //6. Publish your favorite food to `index.html` using `document.write()`
 
 //7. Print the remainder of 14 / 3 to the console
